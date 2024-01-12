@@ -1,0 +1,8 @@
+pandas==1.3.5
+SQLAlchemy==1.4.46
+Flask
+mysql-connector-python==8.0.33
+selenium==4.10.0
+PyMySql
+sklearn
+numpy
